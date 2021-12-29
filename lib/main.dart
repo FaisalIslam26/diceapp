@@ -9,8 +9,8 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.red,
         appBar: AppBar(
-          title: Text('Dice app'),
-          backgroundColor: Colors.red,
+          title: Text('DICE APP'),
+          backgroundColor: Colors.purple,
         ),
         body: DicePage(),
       ),
